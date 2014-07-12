@@ -1,1 +1,4 @@
-A stripped down grid derived from Bootstrap 3
+# GRID
+
+A stripped down css library with a reset and a grid.
+Derived from Bootstrap 3.
